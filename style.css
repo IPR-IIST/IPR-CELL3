@@ -1,0 +1,135 @@
+#main
+{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    color: rgb(0, 0, 121);
+    font-size: 50px;
+    padding-right: 240px;
+}
+h2
+{
+    font-size: 24px;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+img
+{
+    width: 100px;
+    height: 100px;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+
+#emblem
+{
+    height: 110px;
+    width: 185px;
+    margin-left: 950px;
+    margin-top: -105px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 70%;
+    background-color: whitesmoke;
+    line-height: 3;
+   text-align: center;
+    
+}
+#myNavbar
+{
+    background: rgb(88, 55, 6);
+}
+
+p
+{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+#ipr_policies
+{
+    text-align: center;
+}
+
+#HOME
+{
+
+    background-size: cover;
+}
+
+#ip_compendium
+{
+    text-align: center;
+    
+}
+
+#img1
+{
+    width:600px;
+    height: 600px;
+    margin-left: 75px;
+    
+}
+
+#img2
+{
+    width: 600px;
+    height: 600px;
+    margin-left: 75px;
+}
+
+#ip_compendium_main_text
+{
+    text-align: justify;
+    margin-left: 75px;
+    color: blue;
+}
+
+#yes
+{
+ margin-left: 265px;
+ margin-top: 50px;
+}
+
+#no
+{
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+#pepe_is_fighting
+{
+    margin-bottom: 50px;
+}
+
+h5
+{
+    color: rgb(0, 0, 121);
+    text-align: justify;
+}
+
+#link
+{
+    
+    color: white;
+}
+
+#h1IsCool
+{
+    background-color: rgb(146, 91, 9);
+    margin-left: 480px;
+}
+
+#main2
+{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    color: rgb(85, 3, 3);
+    font-size: 30px;
+    padding-right: 275px;
+}
